@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-This is a JAVA framework for the Traveling Salesman Problem (TSP).
+This is an implementation of a TSP solution based on the JAVA framework for the Traveling Salesman Problem (TSP).
 
 This framework was created by Fabien Léhuédé, Damien Prot and Axel Grimault for pedagogic issues at [Institut Mines Télécom Atlantique](https://www.imt-atlantique.fr/).
 
